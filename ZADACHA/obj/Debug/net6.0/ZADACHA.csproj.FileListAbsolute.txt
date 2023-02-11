@@ -1,0 +1,15 @@
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.csproj.AssemblyReference.cache
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.AssemblyInfoInputs.cache
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.AssemblyInfo.cs
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.csproj.CoreCompileInputs.cache
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\bin\Debug\net6.0\ZADACHA.exe
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\bin\Debug\net6.0\ZADACHA.deps.json
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\bin\Debug\net6.0\ZADACHA.runtimeconfig.json
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\bin\Debug\net6.0\ZADACHA.dll
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\bin\Debug\net6.0\ZADACHA.pdb
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.dll
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\refint\ZADACHA.dll
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.pdb
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ZADACHA.genruntimeconfig.cache
+C:\Users\lyuda\OneDrive\Рабочий стол\Бизнес-системный аналитик\1 четверть\Итоговая работа 2\ZADACHA\obj\Debug\net6.0\ref\ZADACHA.dll
